@@ -1,5 +1,5 @@
 ---
-title: Arlec PC288HA Twin Plug
+title: Arlec PC389HA Plug With 2.1A USB Charger
 date-published: 2020-09-10
 type: plug
 standard: au
