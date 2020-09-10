@@ -84,7 +84,7 @@ switch:
 sensor:
   - platform: uptime
     name: ${friendly_name} Uptime
-    
+
   - platform: wifi_signal
     name: "${friendly_name} WiFi Signal"
     update_interval: 60s
